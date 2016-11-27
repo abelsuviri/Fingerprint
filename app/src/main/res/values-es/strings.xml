@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fingerprint</string>
+    <string name="attempt_exceeded">Ha superado el número máximo de intentos</string>
+    <string name="fingerprint_message">Lector de huellas detectado.</string>
+    <string name="login_success">Acceso correcto</string>
+    <string name="password">Contraseña</string>
+    <string name="sign_in">Entrar</string>
+    <string name="username">Usuario</string>
+    <string name="wrong_user">Usuario o contraseña incorrectos</string>
+    <string name="fingerprint_error">No se ha reconocido su huella.</string>
+    <string name="fingerprint_success">Huella validada. ¡Bienvenido!</string>
+    <string name="touch_sensor">Toque el sensor de huellas.</string>
+    <string name="fingerprint_added">Se ha añadido una nueva huella a su dispositivo. Pulse en el botón OK para comenzar a utilizar su huella para acceder.</string>
+    <string name="ok">OK</string>
+    <string name="usePassword">UTILIZAR CONTRASEÑA</string>
+</resources>

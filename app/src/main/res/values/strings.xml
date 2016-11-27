@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Fingerprint</string>
+    <string name="sign_in">Sign in</string>
+    <string name="fingerprint_message">Fingerprint detected</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="wrong_user">Wrong username or password</string>
+    <string name="attempt_exceeded">You have exceed maximum attempt</string>
+    <string name="login_success">Login successful</string>
+    <string name="touch_sensor">Touch sensor</string>
+    <string name="fingerprint_error">Fingerprint not recognized</string>
+    <string name="fingerprint_success">Fingerprint recognized. Welcome!</string>
+    <string name="fingerprint_added">A new fingerprint was added to this device. Press OK button to sign in using your fingerprint.</string>
+    <string name="ok">OK</string>
+    <string name="usePassword">USE PASSWORD</string>
+</resources>
